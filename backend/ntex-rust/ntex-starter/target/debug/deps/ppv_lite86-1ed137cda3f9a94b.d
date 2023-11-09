@@ -1,0 +1,10 @@
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/ppv_lite86-1ed137cda3f9a94b.rmeta: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/libppv_lite86-1ed137cda3f9a94b.rlib: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/ppv_lite86-1ed137cda3f9a94b.d: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs:

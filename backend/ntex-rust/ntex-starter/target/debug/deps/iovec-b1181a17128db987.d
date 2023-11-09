@@ -1,0 +1,10 @@
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/iovec-b1181a17128db987.rmeta: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/libiovec-b1181a17128db987.rlib: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/iovec-b1181a17128db987.d: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs
+
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/lib.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/mod.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/sys/unix.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iovec-0.1.4/src/unix.rs:

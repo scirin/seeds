@@ -1,0 +1,10 @@
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/resolv_conf-9e27a37696eeca09.rmeta: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/libresolv_conf-9e27a37696eeca09.rlib: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/resolv_conf-9e27a37696eeca09.d: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs:

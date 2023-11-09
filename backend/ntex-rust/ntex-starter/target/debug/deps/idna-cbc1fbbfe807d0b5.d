@@ -1,0 +1,10 @@
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/idna-cbc1fbbfe807d0b5.rmeta: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/libidna-cbc1fbbfe807d0b5.rlib: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/Irine_Kokilashvili/Desktop/seeds/backend/ntex-rust/ntex-starter/target/debug/deps/idna-cbc1fbbfe807d0b5.d: /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs:
+/Users/Irine_Kokilashvili/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs:
