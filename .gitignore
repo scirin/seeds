@@ -24,6 +24,11 @@ node_modules/
 dist/
 build/
 
+# Rust
+target/
+test_local/
+.vagrant/
+
 # Java
 *.class
 *.jar
